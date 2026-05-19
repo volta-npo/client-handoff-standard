@@ -12,7 +12,7 @@
 
 **Student Agency Operations** · **No backend. No login. Client data stays local.**
 
-[Live app](https://volta-npo.github.io/client-handoff-standard/) · [Report an issue](https://github.com/volta-npo/client-handoff-standard/issues) · [Volta](https://voltanpo.org)
+[Live app](https://volta-npo.github.io/43-client-handoff-standard/) · [Report an issue](https://github.com/volta-npo/43-client-handoff-standard/issues) · [Volta](https://voltanpo.org)
 
 </div>
 
@@ -182,7 +182,7 @@ This repo is designed to be usable as a real OSS product, not just a static demo
 ## 🛠️ Quick start
 
 ```bash
-git clone https://github.com/volta-npo/client-handoff-standard.git
+git clone https://github.com/volta-npo/43-client-handoff-standard.git
 cd 43-client-handoff-standard
 npm install
 npm test
