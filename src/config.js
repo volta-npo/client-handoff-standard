@@ -40,56 +40,56 @@ export const config = {
             "label": "Credential checklist",
             "weight": 15,
             "defaultStatus": "not-started",
-            "prompt": "Implement and verify credential checklist with evidence that a Volta student pod, mentor, and owner can understand."
+            "guidance": "Implement and verify credential checklist with evidence that a Volta student pod, mentor, and owner can understand."
         },
         {
             "id": "training-agenda",
             "label": "Training agenda",
             "weight": 15,
             "defaultStatus": "not-started",
-            "prompt": "Implement and verify training agenda with evidence that a Volta student pod, mentor, and owner can understand."
+            "guidance": "Implement and verify training agenda with evidence that a Volta student pod, mentor, and owner can understand."
         },
         {
             "id": "maintenance-guide",
             "label": "Maintenance guide",
             "weight": 15,
             "defaultStatus": "not-started",
-            "prompt": "Implement and verify maintenance guide with evidence that a Volta student pod, mentor, and owner can understand."
+            "guidance": "Implement and verify maintenance guide with evidence that a Volta student pod, mentor, and owner can understand."
         },
         {
             "id": "30-day-support-plan",
             "label": "30-day support plan",
             "weight": 15,
             "defaultStatus": "not-started",
-            "prompt": "Implement and verify 30-day support plan with evidence that a Volta student pod, mentor, and owner can understand."
+            "guidance": "Implement and verify 30-day support plan with evidence that a Volta student pod, mentor, and owner can understand."
         },
         {
             "id": "evidence-quality",
             "label": "Evidence quality",
             "weight": 10,
             "defaultStatus": "not-started",
-            "prompt": "Attach proof, source notes, screenshots, owner confirmation, or reviewer rationale."
+            "guidance": "Attach proof, source notes, screenshots, owner confirmation, or reviewer rationale."
         },
         {
             "id": "owner-handoff",
             "label": "Owner handoff",
             "weight": 10,
             "defaultStatus": "not-started",
-            "prompt": "Make the output understandable and maintainable by a nontechnical owner."
+            "guidance": "Make the output understandable and maintainable by a nontechnical owner."
         },
         {
             "id": "mission-alignment",
             "label": "Mission alignment",
             "weight": 10,
             "defaultStatus": "not-started",
-            "prompt": "Show how this advances digital equity, student growth, or pro bono delivery."
+            "guidance": "Show how this advances digital equity, student growth, or pro bono delivery."
         },
         {
             "id": "qa-safety",
             "label": "QA and safety",
             "weight": 10,
             "defaultStatus": "not-started",
-            "prompt": "Resolve privacy, accessibility, accuracy, and operational risks before handoff."
+            "guidance": "Resolve privacy, accessibility, accuracy, and operational risks before handoff."
         }
     ],
     "templates": {
