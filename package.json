@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/43-client-handoff-standard.git"
+    "url": "git+https://github.com/volta-npo/client-handoff-standard.git"
   },
-  "homepage": "https://volta-npo.github.io/43-client-handoff-standard/",
+  "homepage": "https://volta-npo.github.io/client-handoff-standard/",
   "bugs": {
-    "url": "https://github.com/volta-npo/43-client-handoff-standard/issues"
+    "url": "https://github.com/volta-npo/client-handoff-standard/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
